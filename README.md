@@ -1,3 +1,3 @@
 # odin-recipes
 My first TOP project!
-Created using HTML
+Created using HTML and CSS
